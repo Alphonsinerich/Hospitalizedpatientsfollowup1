@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">patients follow up</string>
+    <string name="no_patient">Currently there are no Patients in care</string>
+    <string name="menu_insert">Add Patient</string>
+    <string name="menu_delete">Delete Patient data</string>
+    <string name="todo_treatment">Treatment</string>
+    <string name="todo_description">Delete Patient data</string>
+    <string name="todo_edit_treatment">Treatment</string>
+    <string name="todo_edit_prescription">Prescription</string>
+    <string name="todo_edit_confirm">Confirm</string>
+</resources>
